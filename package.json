@@ -1,10 +1,10 @@
 {
-  "name": "first-app",
+  "name": "Restaurant's API",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "This is a restaurant's RESTfull API ",
   "scripts": {
-    "develop": "strapi develop",
+    "develop": "strapi develop", 
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi"
@@ -17,7 +17,7 @@
     "sqlite3": "5.0.2"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Carlos Herrera"
   },
   "strapi": {
     "uuid": "e2c1909b-f578-4bc1-bd40-65f82bfb85ca"
